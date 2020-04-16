@@ -1,4 +1,4 @@
-# An Ubuntu, Ansible, and AppDynamics Configuration
+# Instrument Ubuntu with AppDynamics using Ansible
 
 The purpose of this repo is to provide a template for rapidly configuring an Ubuntu 18.04 machine with AppDynamics using Ansible.
 
