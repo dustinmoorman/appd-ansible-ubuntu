@@ -4,11 +4,8 @@
   "required_packages": [
     "openjdk-8-jdk",
     "python3-lxml",
-    "mysql-server",
     "unzip"
   ],
-  "mysql_jdbc_local_source": "",
-  "mysql_root_password": "",
   "controller_port": "",
   "tier_name": "",
   "node_name": "",
